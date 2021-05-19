@@ -461,6 +461,9 @@ ul#nav li.current a { color: #F06000; }
 
    background: url(../images/overlay-bg.png) repeat;
 }
+.modal{
+   background-color: red;
+}
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
