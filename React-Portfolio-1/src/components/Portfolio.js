@@ -15,7 +15,7 @@ export default function porta(props){
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                      <img src={`${item.imgurl}`} className="item-img"/>
+                      <img src={item.imgurl} className="item-img"/>
                       <div className="overlay"  onClick={() => setModalIsOpen(true)}>
                        
      
